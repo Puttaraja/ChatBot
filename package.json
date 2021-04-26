@@ -1,0 +1,36 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "Implementing a Chat bot which guides NITK fresher's",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Rakesh Kallimani , Puttaraja , V N Karthik",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puttaraja/ChatBot.git"
+  },
+  "keywords": [
+    "input",
+    "Menu",
+    "input1",
+    "GetSelectedTextValue()",
+    "Select_function()",
+    "output()",
+    "compare()",
+    "addChat()",
+    "textToSpeech()",
+    "SpeechRecognition()"
+  ],
+  "bugs": {
+    "url": "https://github.com/Puttaraja/ChatBot/issues"
+  },
+  "homepage": "https://github.com/Puttaraja/ChatBot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
