@@ -1,2 +1,3 @@
 # ChatBot
-Implementing a chatbot that guides NITK freshers.
+
+Implemented a user friendly interactive chatbot that guides NITK freshers about campus amenities.
